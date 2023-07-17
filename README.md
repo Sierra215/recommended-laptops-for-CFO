@@ -20,7 +20,7 @@ Hard Drive Storage: 512 GB
 
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme#_config.yml
 
 CFO's Requested Laptop
 
