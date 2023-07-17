@@ -20,7 +20,7 @@ Hard Drive Storage: 512 GB
 
 ### Acer Swift Intel Evo
 ![alt text](Amazon.JPG)
-[title](https://www.amazon.com/gp/product/B093TMFFC3?tag=rtings-lt-r-third-party-prime-20&ie=UTF8&th=1)
+[title](https://www.amazon.com/gp/product/B093TMFFC3?tag=rtings-lt-r-third-party-prime-20&ie=UTF8&th=1) 
 
 
 
