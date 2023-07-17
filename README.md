@@ -12,3 +12,4 @@ Lenovo Ideapad 3i Laptop
 CFO's Requested Laptop
 
 ![alt text](image.jpg)
+
