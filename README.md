@@ -26,10 +26,10 @@ Reasons Why the Acer Swift Intel Evo is better than the CFO's Requested Laptop
 2.
 3.
 
-CPU Model:
-Number of processors:
-Amount of RAM:
-Hard Drive Storage:
+*CPU Model:
+*Number of processors:
+*Amount of RAM:
+*Hard Drive Storage:
 
 ### CFO's Requested Laptop
 
