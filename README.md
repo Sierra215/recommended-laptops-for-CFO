@@ -17,10 +17,10 @@ Number of processors: 2
 Amount of RAM: 8 GB
 Hard Drive Storage: 512 GB
 
-
-remote_theme: pages-themes/time-machine@v0.2.0
+_config.yml:remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
-- jekyll-remote-theme#_config.yml
+- jekyll-remote-theme
+
 
 CFO's Requested Laptop
 
