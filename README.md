@@ -4,4 +4,4 @@
 
 Lenovo Ideapad 3i Laptop
 
-![alt text](image.jpg)
+![alt text](Computer.JPG)
