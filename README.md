@@ -40,6 +40,9 @@ Hard Drive Storage: 512 GB
 ![alt text](BestBuy.JPG)
 [title](https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-hd-laptop-athlon-silver-7120u-with-4gb-memory-128gb-ssd-cloud-grey/6531746.p?skuId=6531746)
 
-
+CPU model:  
+Number of processors: 2
+Amount of RAM: 4 GB
+Hard Drive Storage: 128 GB
 
 Best overall recommended is the Acer swift Intel Evo because it has a slight better performance than the Lenovo Ideapad 3i Laptop and of course the CFO's recommended choice. 
