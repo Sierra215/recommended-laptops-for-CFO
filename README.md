@@ -14,8 +14,11 @@
 3. Wireless communication technology: Wi-Fi
 
 CPU model: Intel
+
 Number of processors: 2
+
 Amount of RAM: 8 GB
+
 Hard Drive Storage: 512 GB
 
 ### Acer Swift Intel Evo
@@ -31,8 +34,11 @@ Hard Drive Storage: 512 GB
 3. Up to 16 Hours Battery Life
 
 CPU Model: 	Intel Core i7-1165G7
+
 Number of processors: 4
+
 Amount of RAM: 8 GB
+
 Hard Drive Storage: 512 GB
 
 ### CFO's Requested Laptop
@@ -41,8 +47,11 @@ Hard Drive Storage: 512 GB
 [title](https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-hd-laptop-athlon-silver-7120u-with-4gb-memory-128gb-ssd-cloud-grey/6531746.p?skuId=6531746)
 
 CPU model:  AMD A4-7210 APU
+
 Number of processors: 2
+
 Amount of RAM: 4 GB
+
 Hard Drive Storage: 128 GB
 
 Best overall recommended is the Acer swift Intel Evo because it has a slight better performance than the Lenovo Ideapad 3i Laptop and of course the CFO's recommended choice. 
